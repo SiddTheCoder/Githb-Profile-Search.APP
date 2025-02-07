@@ -33,7 +33,6 @@ Check out a live demo of the GitHub Profile Finder App below:
 
 [![GitHub Profile Finder App Demo](./screenshot.png)](https://your-live-demo-link.com)
 
-> *Note: Replace the above screenshot and link with your actual demo image and URL.*
 
 ---
 
